@@ -2,7 +2,6 @@
 ### Decomposing CLIP Projectors for Efficient Intra-modal Alignment
  
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2603.19862)
-[![GitHub Stars](https://img.shields.io/github/stars/simomagi/IsoCLIP?style=social)](https://github.com/simomagi/IsoCLIP)
 
 This is the **official repository** of the **CVPR 2026 paper**
 "*IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment*"
