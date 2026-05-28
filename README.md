@@ -413,8 +413,10 @@ If you find this work useful, please consider citing:
 @InProceedings{Magistri_2026_CVPR,
     author    = {Magistri, Simone and Goswami, Dipam and Mistretta, Marco and Twardowski, Bart{\l}omiej and van de Weijer, Joost and Bagdanov, Andrew D.},
     title     = {IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment},
-    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
-    year      = {2026}
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {29315-29324}
 }
 
 ```
