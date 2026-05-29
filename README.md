@@ -4,6 +4,7 @@
 [![CVPR](https://img.shields.io/badge/CVPR%202026-Paper-red.svg)](https://openaccess.thecvf.com/content/CVPR2026/papers/Magistri_IsoCLIP_Decomposing_CLIP_Projectors_for_Efficient_Intra-modal_Alignment_CVPR_2026_paper.pdf) 
 [![Supplementary](https://img.shields.io/badge/CVPR%202026-Supplementary-blue.svg)](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Magistri_IsoCLIP_Decomposing_CLIP_CVPR_2026_supplemental.pdf) 
 [![YouTube](https://img.shields.io/badge/CVPR%202026-Video-red.svg?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KKOsTjgMyAs)
+[![Poster](https://img.shields.io/badge/CVPR%202026-Poster-orange.svg)](https://github.com/simomagi/IsoCLIP/blob/main/assets/IsoCLIP-CVPRposter.png)
 [![GitHub stars](https://img.shields.io/github/stars/simomagi/IsoCLIP?style=social)](https://github.com/simomagi/IsoCLIP/stargazers)
 
 
